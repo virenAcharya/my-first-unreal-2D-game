@@ -37,9 +37,9 @@ https://viru-theswordking.itch.io/flying-eye
 
 📸 Screenshots
 
-![Gameplay](screenshots/Screenshot1.png)
-![Gameplay](screenshots/Screenshot2.png)
-![Gameplay](screenshots/Screenshot3.png)
+![Gameplay](screenshots/screenshot1.png)
+![Avoiding obstacles](screenshots/Screenshot2.png)
+![The lose screen](screenshots/Screenshot3.png)
 ![Gameplay](screenshots/Screenshot4.png)
 
 🎥 Gameplay
